@@ -4,7 +4,7 @@ Perkenalkan nama saya **Syahrul Mubarok Nur Muhammad**.
 
 Saya seorang **Mahasiswa Fakultas Teknologi Informasi** di [ARS University](https://www.ars.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/syahrul-mubarok-nur-muhammad-ba6446177/) ku ya.
 
 <!--
 # Tech Stack
